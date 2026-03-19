@@ -10,7 +10,7 @@ def maak_verbinding():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Azadegan24",
+        password="***",
         database="attractiepark"
     )
 
