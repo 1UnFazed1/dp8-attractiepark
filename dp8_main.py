@@ -9,7 +9,7 @@ import json
 verbinding = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Azadegan24",
+    password="***",
     database="attractiepark"
 )
 
